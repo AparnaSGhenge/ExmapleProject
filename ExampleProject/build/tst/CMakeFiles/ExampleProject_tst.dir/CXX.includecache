@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aparna/Downloads/test repos/ExampleProject/tst/Formula-test.cpp
+gtest/gtest.h
+/home/aparna/Downloads/test repos/ExampleProject/tst/gtest/gtest.h
+Formula.h
+/home/aparna/Downloads/test repos/ExampleProject/tst/Formula.h
+
+/home/aparna/Downloads/test repos/ExampleProject/tst/main.cpp
+gtest/gtest.h
+/home/aparna/Downloads/test repos/ExampleProject/tst/gtest/gtest.h
+

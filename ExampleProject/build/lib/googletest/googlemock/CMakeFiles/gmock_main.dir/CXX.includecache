@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aparna/Downloads/test repos/ExampleProject/lib/googletest/googlemock/src/gmock_main.cc
+iostream
+-
+gmock/gmock.h
+/home/aparna/Downloads/test repos/ExampleProject/lib/googletest/googlemock/src/gmock/gmock.h
+gtest/gtest.h
+/home/aparna/Downloads/test repos/ExampleProject/lib/googletest/googlemock/src/gtest/gtest.h
+tchar.h
+-
+

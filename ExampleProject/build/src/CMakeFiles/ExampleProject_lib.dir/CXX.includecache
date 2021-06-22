@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aparna/Downloads/test repos/ExampleProject/src/Formula.cpp
+Formula.h
+/home/aparna/Downloads/test repos/ExampleProject/src/Formula.h
+
+/home/aparna/Downloads/test repos/ExampleProject/src/Formula.h
+
+/home/aparna/Downloads/test repos/ExampleProject/src/main.cpp
+iostream
+-
+Formula.h
+/home/aparna/Downloads/test repos/ExampleProject/src/Formula.h
+
